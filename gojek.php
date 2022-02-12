@@ -6,7 +6,7 @@ include "fcgomart.php";
 ulang:
 // function change(){
 echo color("purple","               CLAIM VOUCHER GOJEK   GOMART                  \n");
-echo color("red","                By KWr                   \n");
+echo color("red","                By AS04                    \n");
 echo color("nevy","        Waktu  : ".date('[d-m-Y] [H:i:s]')."                        \n");
 echo color("green","         Donasi Bisa Ke WA Dibawah Ini                       \n") ;
 echo color("yellow","                 WA 08xxxxxxxxxx                          \n");
